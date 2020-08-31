@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/bass.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
 <!-- Bootstrap -->
-<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet">
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<link href="../css/bootstrap-4.4.1.css" rel="stylesheet">
+<link href="../css/custom.css" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 <body>
 <!-- body code goes here -->
 <div class="container-fluid clearfix">
-  <nav class="row navbar fixed-top"> <a class="navbar-brand col-3 col-lg-2 align-self-start" href="index.html">
+  <nav class="row navbar fixed-top"> <a class="navbar-brand col-3 col-lg-2 align-self-start" href="../index.html">
     <p class="name">Xander Kaes</p>
     </a>
     <div class=" clearfix" id="navbarTogglerDemo02">
@@ -29,16 +29,16 @@
   </nav>
 </div>
 <div class="container">
-    <div class="row"><!-- InstanceBeginEditable name="First content" -->First content<!-- InstanceEndEditable -->
+    <div class="row"><!-- TemplateBeginEditable name="First content" -->First content<!-- TemplateEndEditable -->
         
   </div>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-3.4.1.min.js"></script> 
+<script src="../js/jquery-3.4.1.min.js"></script> 
 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/popper.min.js"></script> 
-<script src="js/bootstrap-4.4.1.js"></script>
+<script src="../js/popper.min.js"></script> 
+<script src="../js/bootstrap-4.4.1.js"></script>
 </body>
-<!-- InstanceEnd --></html>
+</html>
