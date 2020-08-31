@@ -1,6 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,600;0,900;1,700&display=swap');
 
 
-*[font-family: 'Source Sans Pro', sans-serif;]
+body[ background-colour:black;]
+
+div.row[ margin-top: 10vh;] 
+ul.navbar-nav[ margin-right:15vw;] 
+div.card[ max-height:15vh; max-width: 30vw;]
